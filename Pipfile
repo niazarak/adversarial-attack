@@ -12,6 +12,7 @@ torchvision = "*"
 tqdm = "*"
 lets-plot = "*"
 scikit-learn = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
